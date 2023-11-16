@@ -148,3 +148,5 @@ router.post('/register',
             }catch(error){}
         }
     })
+
+module.exports = router;
